@@ -1,0 +1,19 @@
+.VendingMachine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-d91234c798af80bf6bdeed7ba969a2b5.png?resize=1&w=1920");
+    height: 98vh;
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+.VendingMachine-Selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(240, 248, 255, 0.50);
+    padding: 3rem;
+}

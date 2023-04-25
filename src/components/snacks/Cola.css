@@ -1,0 +1,20 @@
+.Cola {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://s3-prod.adage.com/s3fs-public/styles/width_660/public/20230222_coca-cola-chatGPT_3x2.jpg");
+    height: 98vh;
+    margin: 0 auto;
+    color: white;
+}
+
+.Cola-Selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(10, 32, 142, 0.80);
+    padding: 3rem;
+}
